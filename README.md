@@ -12,9 +12,9 @@
 
 - I am a computer engineering, currently working as freelancer graphic designer. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - I’m currently learning:
-    - NodeJS
-    - Vue.js
     - React
+    - Vue.js
+    - NodeJS
 - Graphic Designer Freelancer with the intention of completely migrating to the world of web development.
 - Outside tech, I love Training, playing videogames, listening to music, and reading books.
 - I’m currently open for a new job opportunity.
