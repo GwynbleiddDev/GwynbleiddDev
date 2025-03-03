@@ -23,7 +23,7 @@
 
 ## My WebSite/Portfolio:
 
-<a href="https://alejandro-valera-portfolio.netlify.app"><img src="https://drive.google.com/file/d/1EGBZ5v936iwDZb70o-NLUUp0flcwudEA/view?usp=sharing" alt="img portfolio"></a>
+<a href="https://alejandro-valera-portfolio.netlify.app"><img src="https://github.com/GwynbleiddDev/GwynbleiddDev/blob/main/portfolio.png?raw=true" alt="img portfolio"></a>
 
 
 ## My Skills 
