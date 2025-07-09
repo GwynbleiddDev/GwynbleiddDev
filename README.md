@@ -23,7 +23,7 @@
 
 ## My WebSite/Portfolio:
 click the image for go to my portfolio!
-<a href="https://alejandro-valera-portfolio.netlify.app"><img src="https://github.com/GwynbleiddDev/GwynbleiddDev/blob/main/porfolio.png" alt="img portfolio"></a>
+<a href="https://alejandro-valera-portfolio-next.netlify.app"><img src="https://github.com/GwynbleiddDev/GwynbleiddDev/blob/main/porfolio.png" alt="img portfolio"></a>
 
 
 ## My Skills 
