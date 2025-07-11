@@ -14,7 +14,7 @@
 - I’m currently learning:
     - React
     - Vue.js
-    - NodeJS
+    - NestJS
 - Graphic Designer Freelancer with the intention of completely migrating to the world of web development.
 - Outside tech, I love Training, playing videogames, listening to music, and reading books.
 - I’m currently open for a new job opportunity.
